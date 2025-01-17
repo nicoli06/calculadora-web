@@ -1,6 +1,6 @@
-# myapp
+# Calculadora
 
-A new Flutter project.
+Projeto desenvolvido para a matéria de desenvolvimento web do curso Taleneto Tech-Pr
 
 ## Getting Started
 
