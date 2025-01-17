@@ -1,6 +1,6 @@
 # Calculadora
 
-Projeto desenvolvido para a matéria de desenvolvimento web do curso Taleneto Tech-Pr
+Projeto desenvolvido para a matéria de desenvolvimento web do curso Talento Tech-Pr
 
 ## Getting Started
 
